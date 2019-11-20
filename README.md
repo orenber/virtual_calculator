@@ -1,5 +1,5 @@
-Welcome to the virtual_calculator wiki!
-calculator that you can do calculations in virtual calculator in front of the camera.
+# virtual_calculator!
+you can do calculations in virtual calculator in front of the camera.
 
 ### Instructions:
 
