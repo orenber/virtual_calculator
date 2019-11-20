@@ -1,45 +1,38 @@
-# virtual_calculator
- This calculator allows you to make calculations in front of the camera.
- Instructions:
+Welcome to the virtual_calculator wiki!
+calculator that you can do calculations in virtual calculator in front of the camera.
 
- All you have to do is: click on the Play button,
- The camera to be powered on and ready to use
- After pressing the Play button and moving the finger on the screen appear standard calculator buttons.
+### Instructions:
 
- Press the desired button and wait a moment, to the number you want to appear in the title
-.
- Explanations of the functions of the software:
+All you have to do is: 
+1. click on the Play button, The camera to be powered on and ready to use After pressing the Play button and moving the  finger on the screen appear standard calculator buttons.
+2. Press the desired button and wait a moment, to the number you want to appear in the title .
 
- virtualcalc-This is the main program which does the virtual calculator.
+### Explanations of the software functions:
 
- displayscrean-This function displays the buttons on the screen
- Checks where the red object in relation to the buttons.
+* virtualcalc-This is the main program.
 
- samenum - function determines how many times to press the button to display the desired digit,
- You can change, for example:
- samenum (num, 6) - the sixth digit can be changed and that's the number of times that change click to view the desired digit.
+* displayscrean-This function displays the buttons on the screen, Checks where the red object in relation to the buttons.
 
-%% Notes
+* samenum - function determines how many times to press the button to display the desired digit, You can change, for example: samenum (num, 6) - the sixth digit can be changed and that's the number of times that change click to view the desired digit.
 
- Finger identification scheme was based on sensitivity to red color
- Effective use is important that the camera %red objects were filmed
+### Notes
 
- Better to use a bottle of red jam
- Red cursor will appear showing where the %camera detects red object
+Finger identification scheme was based on sensitivity to red color ,Effective use is important that the camera red objects were filmed
 
- To change the sensitivity buttons change the digit function
+Better to use a red bottle cork, Red cursor will appear showing where the camera detects red object
 
- Better to use fluorescent lighting
+To change the sensitivity buttons change the digit function input 
 
- To exit the program - have to create a dark % screen in front of the camera,...
- you can do so by covering the camera eye
+Better to use fluorescent lighting
 
- For optimal performance, use Windows Camera
- Resolution of 160X120.
+To exit the program - you need to create a dark screen in front of the camera,... you can do so by covering the camera eye
 
- Necessary Toolbox: Image Processing.
- The software is constructed of the version of MATLAB 2011a.
+For optimal performance, use Windows Camera Resolution of 160X120.
 
- This software was created by Oren Berkovich on Sunday June 16 2013.
+### Necessary Toolbox: Image Processing.
+The software was developed in MATLAB 2011a version .
 
- Notes and suggestions are welcome.
+This software was created by Oren Berkovich on Sunday June 16 2013.
+
+Notes and suggestions are welcome.
+
